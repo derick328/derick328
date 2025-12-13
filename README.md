@@ -91,6 +91,21 @@ I work across **React**, **Django**, and **Spring Boot**, focusing on sectors li
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derick328\&layout=compact\&theme=radical)
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derick328&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=derick328&theme=onedark)
+
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+
+
 ---
 
 ## 🌐 Connect With Me
