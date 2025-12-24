@@ -112,7 +112,7 @@ I work across **React**, **Django**, and **Spring Boot**, focusing on sectors li
 
 * 📧 Email: derickmhidze10@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/derick-mhidze-bb909b327/
-* 🌍 Portfolio: https://personal-portfolio-ten-tau-25.vercel.app/#home
+* 🌍 Portfolio: https://derutech.com
 
 ---
 
