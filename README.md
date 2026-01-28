@@ -6,11 +6,17 @@ I work across **React**, **Django**, and **Spring Boot**, focusing on sectors li
 
 <p align="center">
   <a href="https://app.daily.dev/derickgabrielmhidze">
-    <img
-      src="https://api.daily.dev/devcards/v2/VXsAetWHtA3ejgSeM1LOo.png?type=wide&r=hpr"
-      width="652"
-      alt="Derick Gabriel Mhidze's Dev Card"
-    />
+    <picture>
+      <source
+        srcset="https://api.daily.dev/devcards/v2/VXsAetWHtA3ejgSeM1LOo.png?type=wide&theme=dark&r=hpr"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://api.daily.dev/devcards/v2/VXsAetWHtA3ejgSeM1LOo.png?type=wide&r=hpr"
+        width="652"
+        alt="Derick Gabriel Mhidze's Dev Card"
+      />
+    </picture>
   </a>
 </p>
 
