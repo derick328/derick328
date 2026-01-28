@@ -4,6 +4,8 @@
 
 I work across **React**, **Django**, and **Spring Boot**, focusing on sectors like **hospitality, tourism, healthcare, education, and NGOs**.
 
+<a href="https://app.daily.dev/derickgabrielmhidze"><img src="https://api.daily.dev/devcards/v2/VXsAetWHtA3ejgSeM1LOo.png?r=rbg" width="356" alt="Derick Gabriel Mhidze's Dev Card"/></a>
+
 ---
 
 ## 🧑‍💻 Tech Stack
